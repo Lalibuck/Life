@@ -1,7 +1,7 @@
 Project description:
 ------Project 'Life'------
 
-The projects was created by using Python 3.8 and Flask
+The project was created by using Python 3.8 and Flask
 
 Creating 'Game of Life'(cellular automation)
 
